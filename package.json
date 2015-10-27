@@ -1,0 +1,19 @@
+{
+  "name": "thinkful-auth-151027",
+  "version": "1.0.0",
+  "description": "Thinkful Auth workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolgaek/thinkful-auth-151027.git"
+  },
+  "author": "Tolga Ekmen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tolgaek/thinkful-auth-151027/issues"
+  },
+  "homepage": "https://github.com/tolgaek/thinkful-auth-151027#readme"
+}
